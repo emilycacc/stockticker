@@ -4,7 +4,7 @@
 "description": "stock ticker app ",
 "main": "stocktickerPT2.js",
 "scripts": {
-"start": "node stocktickerPT2.js"
+"start": "stockticker.html"
 },
 "repository": {
 "type": "git",
